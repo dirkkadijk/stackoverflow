@@ -1,5 +1,5 @@
 
-### Table of Contents   versie dirk  2
+### Table of Contents   
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
